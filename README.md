@@ -1,1 +1,1 @@
-# kafka_avro_and_schema
+# Kafka: Schema Registry and Avro
