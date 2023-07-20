@@ -1,4 +1,4 @@
-# Kafka: Schema Registry and Avro
+# Schema Registry and Avro
 
 ## Prerequisites
 1. Apache Kafka
